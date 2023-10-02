@@ -14,13 +14,13 @@ Search Bar:
 
 ![Search Bar](https://github.com/HuangMichael94/ZooSeeker/blob/main/images/SearchBar.PNG?raw=true)
 
-Selections:
-
-![Selections](https://github.com/HuangMichael94/ZooSeeker/blob/main/images/SearchScreenSelections.PNG?raw=true)
-
 Show List:
 
 ![Show List](https://github.com/HuangMichael94/ZooSeeker/blob/main/images/ShowList.PNG?raw=true)
+
+Selections:
+
+![Selections](https://github.com/HuangMichael94/ZooSeeker/blob/main/images/SearchScreenSelections.PNG?raw=true)
 
 Clear List:
 
