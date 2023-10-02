@@ -4,7 +4,7 @@ App developed for the San Diego Zoo in UCSD CSE 110. Visitors can use the app to
 
 # Route Planning
 The ZooSeeker home screen features a list of all exhibits at the San Diego zoo. Add and search for exhibits to visit, then tap **Get Directions** to start navigation.
-**Back** will return to the home screen, **Show List** will display all selected locations once at least one exhibit is selected, and **Clear** will clear the current list.
+**Back** will return to the home screen, **Show List** will display all selected locations once at least one exhibit is selected, and **Clear** will clear the current list. **Get directions** will begin the navigation process.
 
 Home Screen:
 
